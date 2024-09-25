@@ -37,7 +37,6 @@ I'm always eager to expand my knowledge and work on exciting projects that invol
 ### 📫 How to reach me:
 
 - Email: aakhileshacharya32@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/AKHIELSH)
-- GitHub: [Your GitHub Profile](https://github.com/your-github-Akhil-acharya)
-
+- LinkedIn: [AKHIELSH S](https://www.linkedin.com/in/akhilesh-s-6a7684269/)
+- GitHub:   [Akhil-achary](https://github.com/Akhil-acharya/Akhil)
 Feel free to check out my repositories and projects! I'm always open to collaboration and learning opportunities. Let's connect! 😊
